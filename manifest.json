@@ -1,0 +1,21 @@
+{
+  "id": "/filmnex-app",
+  "name": "FILMNEX",
+  "short_name": "FILMNEX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Stream and enjoy the latest movies and web series on FILMNEX.",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/I9rFaLJ.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en"
+}
